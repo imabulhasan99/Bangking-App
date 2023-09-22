@@ -1,0 +1,52 @@
+{
+    "transaction": [
+        {
+            "amount": "5000",
+            "type": "deposit",
+            "email": "boronal@gmail.com",
+            "date": "2023-09-20 18:30:10"
+        },
+        {
+            "amount": "5000",
+            "type": "deposit",
+            "email": "hasanboronal@gmail.com",
+            "date": "2023-09-20 18:30:10"
+        },
+        {
+            "amount": "5000",
+            "type": "deposit",
+            "email": "hasanboronal@gmail.com",
+            "date": "2023-09-20 18:30:10"
+        },
+        {
+            "amount": "2000",
+            "type": "withdraw",
+            "email": "hasanboronal@gmail.com",
+            "date": "2023-09-20 18:30:10"
+        },
+        {
+            "amount": "5000",
+            "type": "withdraw",
+            "email": "hasanboronal@gmail.com",
+            "date": "2023-09-21 06:00:35"
+        },
+        {
+            "amount": "6000",
+            "type": "transfer",
+            "email": "mdabulhassan98@gmail.com",
+            "date": "2023-09-21 06:36:39"
+        },
+        {
+            "amount": "500",
+            "type": "deposit",
+            "email": "h",
+            "date": "2023-09-21 17:57:49"
+        },
+        {
+            "amount": "php main.php",
+            "type": "deposit",
+            "email": "f",
+            "date": "2023-09-21 18:29:23"
+        }
+    ]
+}
