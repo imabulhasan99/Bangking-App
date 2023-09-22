@@ -4,6 +4,11 @@
             "email": "h",
             "password": "1",
             "user_type": "customer"
+        },
+        {
+            "email": "h",
+            "password": "1",
+            "user_type": "admin"
         }
     ]
 }
