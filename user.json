@@ -5,9 +5,10 @@
             "password": "1",
             "user_type": "customer"
         },
+        
         {
-            "email": "h",
-            "password": "1",
+            "email": "hasanbronal@gmail.com",
+            "password": "12345",
             "user_type": "admin"
         }
     ]
